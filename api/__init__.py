@@ -1,6 +1,7 @@
 import base64
 from flask import Flask
 import numpy as np
+from flask import request
 
 
 def create_app():
